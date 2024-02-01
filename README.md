@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from Tajikistan</h3>
 
-<p align="left"> <img src="https://gteches.com/wp-content/uploads/2023/05/flutter.gif" alt="bekhzod3224" /> </p>
+<p align="left"> <img src="https://gteches.com/wp-content/uploads/2023/05/flutter.gif"  /> </p>
 
 - 🔭 I’m currently working on **Frontend React ts , Flutter Mobile Programming in Hujand.**
 
