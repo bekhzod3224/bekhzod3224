@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://kruschecompany.com/wp-content/uploads/2022/09/Hero-image-for-analysis-of-international-Flutter-developer-salary-ranges-with-data-covering-Germany-Switzerland-United-Kingdom-Eastern-Europe-India-and-USA.jpg" /> </p>
 <h3 align="center">Hi 👋, I'm Bekhzod</h3>
-<h3 align="center">A passionate frontend developer from Tajikistan</h3>
+<h3 align="center">A passionate Flutter Mobile developer from Tajikistan</h3>
 
 
 - 🔭 I’m currently working on **Frontend React ts , Flutter Mobile Programming in Hujand.**
